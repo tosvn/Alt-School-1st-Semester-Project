@@ -412,6 +412,7 @@ img {
   height: 156px;
   border-radius: 50%;
   object-fit: cover;
+  background-color: transparent;
 }
 
 .avatar-top-left {
